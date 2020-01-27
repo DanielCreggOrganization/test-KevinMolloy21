@@ -2,6 +2,27 @@
    "configurations": [
       {
          "type": "java",
+         "name": "CodeLens (Launch) - Main",
+         "request": "launch",
+         "mainClass": "ie.gmit.lecture3.Main",
+         "projectName": "test-KevinMolloy21_1fc5f03a"
+      },
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - DataTypes",
+         "request": "launch",
+         "mainClass": "ie.gmit.lecture3.DataTypes",
+         "projectName": "test-KevinMolloy21_1fc5f03a"
+      },
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - DataTypes",
+         "request": "launch",
+         "mainClass": "ie.gmit.Lecture3.DataTypes",
+         "projectName": "test-KevinMolloy21_1fc5f03a"
+      },
+      {
+         "type": "java",
          "name": "CodeLens (Launch) - HelloWorld",
          "request": "launch",
          "mainClass": "ie.gmit.packagename.HelloWorld",
